@@ -1,1 +1,4 @@
-# text_to_speech_UNO
+# Install packages
+`$ git clone https://github.com/TensorSpeech/TensorFlowTTS.git
+$ cd TensorFlowTTS
+$ pip install .`
