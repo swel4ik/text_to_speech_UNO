@@ -1,4 +1,4 @@
 # Install packages
-`$ git clone https://github.com/TensorSpeech/TensorFlowTTS.git  
+```$ git clone https://github.com/TensorSpeech/TensorFlowTTS.git  
 $ cd TensorFlowTTS  
-$ pip install .`
+$ pip install .```
